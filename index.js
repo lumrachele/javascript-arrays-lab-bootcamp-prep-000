@@ -1,2 +1,2 @@
-var destructivelyAppendKitten (name
-)var destructivelyPrependKitten(name)
+var destructivelyAppendKitten (name)
+var destructivelyPrependKitten(name)
