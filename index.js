@@ -24,10 +24,14 @@ function appendKitten(name){
   return appendKitten
 }
 
-function prependKitten(name){
-  var prependKitten = [`${name}`, ...kittens]
-  return prependKitten
+function prependKitten (name){
+  var prependKitten = [`${name}`, kittens.slice(0)]
 }
+
+//function prependKitten(name){
+//  var prependKitten = [`${name}`, ...kittens]
+//  return prependKitten
+//}
 
 function removeLastKitten(){
   return kittens.slice(0, -1)
