@@ -31,3 +31,7 @@ function destructivelyRemoveFirstKitten(){
 //function removeLastKitten(){
   
 //}
+
+//function removeFirstKitten(){
+  
+//}
