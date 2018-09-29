@@ -19,14 +19,15 @@ function destructivelyRemoveFirstKitten(){
   return kittens.shift()
 }
 
+function appendKitten(name){
+  
+}
+
 function prependKitten(name){
   var prependKitten = kittens.splice(0, 0, `${name}`)
   return prependKitten
 }
 
-//function prependKitten(name){
-  
-//}
 
 //function removeLastKitten(){
   
