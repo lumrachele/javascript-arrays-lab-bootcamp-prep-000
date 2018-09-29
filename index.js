@@ -20,7 +20,7 @@ function destructivelyRemoveFirstKitten(){
 }
 
 function appendKitten(name){
-  
+  var appendKitten = kittens.slice(0, `${name}`)
 }
 
 function prependKitten(name){
