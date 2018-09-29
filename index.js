@@ -21,7 +21,7 @@ function destructivelyRemoveFirstKitten(){
 
 function prependKitten(name){
   var prependKitten = kittens.splice(0, 0, `${name}`)
-  return appendKitten
+  return prependKitten
 }
 
 //function prependKitten(name){
