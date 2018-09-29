@@ -20,8 +20,8 @@ function destructivelyRemoveFirstKitten(){
 }
 
 function appendKitten(name){
-  return kittens.splice(0, 0, `${name}`)
-  
+  var appendKitten = kittens.splice(0, 0, `${name}`)
+  return appendKitten
 }
 
 //function prependKitten(name){
