@@ -12,10 +12,10 @@ function destructivelyPrependKitten(name) {
 }
 
 function destructivelyRemoveLastKitten() {
-  return kittens.pop(`${name}`)
+  return kittens.pop()
   }
   
-//function destructivelyRemoveFirstKitten(){
+function destructivelyRemoveFirstKitten(){
   
 //}
 
