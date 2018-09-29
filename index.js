@@ -19,7 +19,11 @@ function destructivelyRemoveFirstKitten(){
   return kittens.shift()
 }
 
-function appendKitten(name){
+//function appendKitten(name){
   
+  
+//}
+
+//function prependKitten(name){
   
 //}
