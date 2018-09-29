@@ -27,3 +27,7 @@ function destructivelyRemoveFirstKitten(){
 //function prependKitten(name){
   
 //}
+
+//function removeLastKitten(){
+  
+//}
