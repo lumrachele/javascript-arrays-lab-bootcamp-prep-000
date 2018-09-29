@@ -19,9 +19,12 @@ function destructivelyRemoveFirstKitten(){
   return kittens.shift()
 }
 
-function appendKitten(name){
-  var appendKitten = [...kittens, `${name}`]
-  return appendKitten
+
+
+
+//function appendKitten(name){
+//  var appendKitten = [...kittens, `${name}`]
+//  return appendKitten
 }
 
 function prependKitten (name){
