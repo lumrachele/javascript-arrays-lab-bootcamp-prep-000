@@ -20,7 +20,7 @@ function destructivelyRemoveFirstKitten(){
 }
 
 function appendKitten(name){
-  var appendKitten = console.log(kittens.slice(NaN) + ", `${name}`")
+  var appendKitten = (kittens.slice(NaN) + ", `${name}`")
   return appendKitten
 }
 
