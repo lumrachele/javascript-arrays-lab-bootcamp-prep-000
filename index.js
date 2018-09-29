@@ -20,14 +20,14 @@ function destructivelyRemoveFirstKitten(){
 }
 
 function appendKitten(name){
-  var appendKitten = kittens.slice(NaN) + `${name}`
+  var appendKitten = kittens.slice(NaN)
   return appendKitten
 }
 
-function prependKitten(name){
-  var prependKitten = kittens.splice(0, 0, `${name}`)
-  return prependKitten
-}
+//function prependKitten(name){
+//  var prependKitten = kittens.splice(0, 0, `${name}`)
+//  return prependKitten
+//}
 
 
 //function removeLastKitten(){
