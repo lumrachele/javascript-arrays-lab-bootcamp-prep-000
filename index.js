@@ -3,6 +3,19 @@ function kittens () {
   
 }
 
-//var destructivelyAppendKitten (name)
-//var destructivelyPrependKitten(name)
-// 
+//function destructivelyAppendKitten (name) {
+  
+}
+//function destructivelyPrependKitten(name) {
+  
+}
+//function destructivelyRemoveLastKitten() {
+  
+}
+//function destructivelyRemoveFirstKitten(){
+  
+}
+
+//function appendKitten(name){
+  
+}
